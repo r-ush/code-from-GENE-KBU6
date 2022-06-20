@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="elmo_ethercat" type="main" name="main" launch-prefix="ethercat_grant" output="screen"/>
+</launch>

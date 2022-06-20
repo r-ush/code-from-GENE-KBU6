@@ -1,0 +1,2 @@
+elmo_ethercat:soem
+-DCATKIN_DEVEL_PREFIX=/home/gene/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gene/catkin_ws/install -G Unix Makefiles

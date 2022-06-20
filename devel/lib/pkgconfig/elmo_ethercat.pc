@@ -1,0 +1,8 @@
+prefix=/home/gene/catkin_ws/devel
+
+Name: elmo_ethercat
+Description: Description of elmo_ethercat
+Version: 0.0.0
+Cflags: -I/home/gene/catkin_ws/src/elmo_ethercat/include
+Libs: -L${prefix}/lib -lelmo_ethercat -lelmo_cest_tt -ltestmain
+Requires: roscpp std_msgs message_runtime
